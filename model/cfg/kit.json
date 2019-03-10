@@ -1,0 +1,11 @@
+{
+	"hihat": {"srch_keys": ["hi", "ha", "hh"]},
+	"fl_tom": {"srch_keys": ["fl", "14", "16", "18"]},
+	"tom": {"srch_keys": ["tom"]},
+	"kick": {"srch_keys": ["ba", "bd", "ki"]},
+	"snare": {"srch_keys": ["sn"]},
+	"ride": {"srch_keys": ["ri", "rd"]},
+	"cym_1": {"srch_keys": ["cym_1"]},
+	"cym_2": {"srch_keys": ["cym_2"]},
+	"cym_3": {"srch_keys": ["cym_3"]}
+}
